@@ -1,0 +1,4 @@
+seller_id;seller unique identifier
+seller_zip_code_prefix;first 5 digits of seller zip code
+seller_city;seller city name
+seller_state;seller state
